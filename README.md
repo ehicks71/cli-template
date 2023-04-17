@@ -10,6 +10,14 @@ Before using the tool, make sure you have the following:
 
 @TODO: Add pre-requisites.
 
+## Installation
+
+To install the tool, clone the repo and then cd into the repo directory and run this command:
+
+```bash
+./install.sh
+```
+
 ## Usage
 
 See [USAGE.md](USAGE.md) for how to use this tool.
