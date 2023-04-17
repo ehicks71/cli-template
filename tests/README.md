@@ -2,7 +2,7 @@
 
 All tests for your code should be located in the `tests` directory.
 
-## Istalling shunit2
+## Installing shunit2
 
 * shunit2 installed - [https://github.com/kward/shunit2](https://github.com/kward/shunit2)
 
