@@ -12,7 +12,7 @@ Before using the tool, make sure you have the following:
 
 ## Usage
 
-See USAGE.md for how to use this tool.
+See [USAGE.md](USAGE.md) for how to use this tool.
 
 ## Testing
 
