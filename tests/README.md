@@ -16,6 +16,7 @@ To install in AWS Workspaces, run the following command:
 
 ```bash
 sudo yum install shunit2
+```
 
 ## Running Tests
 
